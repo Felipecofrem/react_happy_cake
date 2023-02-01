@@ -1,0 +1,55 @@
+.whiteText {
+    color: white;
+}
+
+.cake {
+    padding-right: 1rem;
+    padding-top: 1rem;
+}
+
+.active {
+    color: black;   
+}
+
+.home {
+    margin-right: 1rem;
+}
+
+.nav {
+ background-color:rgb(220,53, 69);
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+ padding-left: 1rem;
+}
+
+.container_contact, .container_home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navlink {
+    text-decoration: none;
+}
+
+textarea {
+    width: 400px;
+    height: 200px;
+    resize: none;
+    margin-bottom: 1rem;
+}
+
+.welcomeText {
+    font-size: 40px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+input {
+    width: 400px;
+}
